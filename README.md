@@ -18,8 +18,7 @@
                                                                       
 <b> Description  </b> :  
 
-This is a Single Player Pong Game  coded          
-                    by me in python using pygame module.              
+This is a Single Player Pong Game  coded by me in python using pygame module. You need python and pygame module installed to run this code.         
        
        
                                                                       
