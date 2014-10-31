@@ -1,7 +1,11 @@
 
                                                                       
-                      
-                                                                      
+        
+        
+        
+        
+                  
+   <h1><b>Single Player Pong Game </b></h1>                                                                     
                                                                       
  <b>CREATED BY </b>   :  
  
