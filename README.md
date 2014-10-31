@@ -31,9 +31,9 @@ This is a Single Player Pong Game  coded
  
                                                                       
  <b>Instructions </b> :  
- 
- This is like Single Player Table Tennis           
-                    Hit the ball using the hit bar.                   
-                    USE LEFT key for move hit bar to left.            
-                    USe RIGHT key for move hit bar to right.          
-                                                                    
+ <ul>
+<li> This is like Single Player Table Tennis </li>          
+<li> Hit the ball using the hit bar.  </li>                   
+<li> USE LEFT key for move hit bar to left.  </li>            
+<li>USe RIGHT key for move hit bar to right.   </li>         
+ </ul>                                                                
