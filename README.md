@@ -24,8 +24,7 @@ This is a Single Player Pong Game  coded by me in python using pygame module. Yo
                                                                       
  <b>License   </b>    : 
  
- This Source Code is free to use                   
-                    for educational purpose only.                     
+ This Source Code is free to use for educational purpose only.                     
  
  
                                                                       
